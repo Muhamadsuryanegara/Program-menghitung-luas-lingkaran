@@ -13,7 +13,8 @@
 - Baris 3: mendeklarasikan variable luas dimana nilai variable tersebut didapat dari perhitungan luas, dimana nilai variable phi dikali nilai variable r lalu dikali dengan variable r dan hasilnya akan dimasukkan ke dalam variable luas.<p>
 - Baris 4: menampilkan nilai dari variable luas.<P>
 ### Run program
-![Screenshot (36)](https://user-images.githubusercontent.com/92678339/139701233-95ec5be3-8806-4eea-a8ac-b6f9ba7948f3.png)
+![Screenshot (47)](https://user-images.githubusercontent.com/92678339/139707275-e174192b-f5fe-47be-a75c-702e9a39c876.png)
+
 Hasil program menghitung luas lingkaran<P>
 ### contoh Inputan :
 ![Screenshot (37)](https://user-images.githubusercontent.com/92678339/139701349-26227781-9a1e-4b93-b02d-c88d2f9f6bdd.png)
@@ -32,11 +33,11 @@ Dari hasil program, source code program menghitung luas lingkaran dengan bahasa 
 - Baris 3: Perhitungan keliling dimana 2 dikali dengan nilai variable phi dikali nilai variable r dan hasilnya akan dimasukkan ke dalam varible k.<p>
 - Baris 4: menampilkan nilai dari variable k.<P>
 ### Run program
-![Screenshot (45)](https://user-images.githubusercontent.com/92678339/139702678-4f4cdbe8-88df-4aeb-9e16-067cbc611ba4.png)
+![Screenshot (48)](https://user-images.githubusercontent.com/92678339/139707934-ff2ed2b0-8d91-4963-88e8-6f5737c7bae4.png)
 ### contoh inputan
-![Screenshot (46)](https://user-images.githubusercontent.com/92678339/139702721-3fd0b0d3-ad68-4e35-888e-fe380eae15a6.png)
+![Screenshot (45)](https://user-images.githubusercontent.com/92678339/139707574-b23817d7-4c01-4a17-adcf-f0f6fb943027.png)
 ### contoh keluaran
-![Gambar 10](Image/outputk.PNG)
+![Screenshot (46)](https://user-images.githubusercontent.com/92678339/139707601-6873fe0c-452f-49f5-aa5c-e238776bd8b2.png)
 ### Kesimpulan
 Dari hasil program, source code program menghitung keliling lingkaran dengan bahasa python tersebut berhasil dapat di compile dan dijalankan tanpa ada error dan saat panjang jari-jari diinput 20 maka menampilkan hasil perhitungan keliling lingkaran yaitu 125.60.<p>
 ## Terima Kasih
