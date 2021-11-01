@@ -13,7 +13,10 @@
 - Baris 3: mendeklarasikan variable luas dimana nilai variable tersebut didapat dari perhitungan luas, dimana nilai variable phi dikali nilai variable r lalu dikali dengan variable r dan hasilnya akan dimasukkan ke dalam variable luas.<p>
 - Baris 4: menampilkan nilai dari variable luas.<P>
 ### Run program
-![Screenshot (48)](https://user-images.githubusercontent.com/92678339/139708657-9af08e15-6b54-4bd8-883b-d767109b9376.png)
+  
+![Screenshot (48)](https://user-images.githubusercontent.com/92678339/139709602-18d889af-7b6e-46fa-83d2-8d33911c2d2b.png)
+
+
 Hasil program menghitung luas lingkaran<P>
 ### contoh Inputan :
 ![Screenshot (37)](https://user-images.githubusercontent.com/92678339/139701349-26227781-9a1e-4b93-b02d-c88d2f9f6bdd.png)
